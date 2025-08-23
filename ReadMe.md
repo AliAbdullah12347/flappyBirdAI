@@ -2,8 +2,6 @@
 
 An AI-powered Flappy Bird agent built using **NEAT (NeuroEvolution of Augmenting Topologies)**. The project trains neural networks through evolutionary strategies to play Flappy Bird autonomously.  
 
-This implementation is based on Tech With Tim’s tutorial series but includes **my own modifications**: graphical improvements, custom parameters, and adjustments to the neural network architecture for **better performance and more consistent results**.  
-
 ---
 
 ## 🚀 Features  
